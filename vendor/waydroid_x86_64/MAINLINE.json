@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1794983208,
+            "filename": "eos-v4.4.2-t-20261118-MAINLINE-waydroid_x86_64-vendor.zip",
+            "id": "9338ee69418cec07bb61a6ad28417aa33a4d0e51ae60ca66f8d53c8ccd48d2c7",
+            "romtype": "MAINLINE",
+            "size": 168597380,
+            "url": "https://github.com/SolAZDev/waydroid_ota/releases/download/eos-20261118-1794983208/eos-v4.4.2-t-20261118-MAINLINE-waydroid_x86_64-vendor.zip",
+            "version": "v4.4.2-t"
+        },
+        {
             "datetime": 1792667170,
             "filename": "lineage-20.0-20261022-MAINLINE-waydroid_x86_64-vendor.zip",
             "id": "91663c337013145208b6c533d7e1fa2a915a9864ddc8fc56966f40cd759648ac",
