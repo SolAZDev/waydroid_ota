@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1795107059,
+            "filename": "eos-v4.4.2-t-20261119-VANILLA-waydroid_arm64_only-system.zip",
+            "id": "0de05c974aa1aab5413f0b8a5c2b31eea86503e6e3c321462a3e528b2c236f5b",
+            "romtype": "VANILLA",
+            "size": 1205958751,
+            "url": "https://github.com/SolAZDev/waydroid_ota/releases/download/eos-20261119-1795107059/eos-v4.4.2-t-20261119-VANILLA-waydroid_arm64_only-system.zip",
+            "version": "v4.4.2-t"
+        },
+        {
             "datetime": 1794983208,
             "filename": "eos-v4.4.2-t-20261118-VANILLA-waydroid_arm64_only-system.zip",
             "id": "680aeb339dd685c02395b2cc8ade8f0485890be5a5daffa621a0b884499b5d72",
